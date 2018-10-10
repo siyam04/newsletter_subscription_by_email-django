@@ -1,6 +1,9 @@
 # To get an email confirmation, first turn on your 'Less app secure access' from,
 ### https://myaccount.google.com/lesssecureapps
 
+* Turn on less secure app access
+![turn on less secure app access](https://user-images.githubusercontent.com/23103980/46763763-7ade1600-ccfc-11e8-9cfe-1cd835dde1b2.png)
+
 # Install and active virtual-environment by command:
    * pip install virtualenv
    * virtualenv your_environment_name
