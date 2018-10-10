@@ -29,8 +29,8 @@ ALLOWED_HOSTS = []
 
 # Set this information
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'workstation844@gmail.com'
-EMAIL_HOST_PASSWORD = 'ug024015029'
+EMAIL_HOST_USER = 'your sender email'
+EMAIL_HOST_PASSWORD = 'your password'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
